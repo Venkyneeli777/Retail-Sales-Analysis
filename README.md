@@ -4,7 +4,7 @@
 
 **Project Title**: Retail Sales Analysis  
 **Tools Used**: MySQL,Excel  
-**Database**: `p1_retail_db`
+**Database**: `sql_project_p2`
 
 This project focuses on analyzing retail sales data using SQL and Excel to extract insights and answer key business questions. It showcases SQL skills for database creation, data cleaning, exploratory data analysis (EDA), and deriving actionable insights. The project highlights the importance of data-driven decision-making in retail.
 
@@ -19,7 +19,7 @@ This project focuses on analyzing retail sales data using SQL and Excel to extra
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
+- **Database Creation**: The project starts by creating a database named `sql_project_p2`.
 
 ```sql
 ## CREATING DATABASE
